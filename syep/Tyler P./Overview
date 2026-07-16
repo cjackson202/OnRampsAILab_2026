@@ -1,0 +1,61 @@
+Overview
+Phantom is an intelligent cybersecurity assistant designed to make digital defense accessible to everyone, regardless of their technical background. As cyber threats continue to evolve, many individuals and small organizations tend to lack the knowledge, time, or resources to understand security risks and respond appropriately. Phantom bridges this gap by translating complex cybersecurity concepts into clear, actionable guidance.
+The goal of this project is not to replace cybersecurity professionals but to empower users to make informed security decisions, identify potential risks, and learn best practices through conversational assistance. By lowering the barrier to cybersecurity knowledge, Phantom helps users strengthen their digital security before threats become incidents.
+________________________________________
+Problem Statement
+Modern cybersecurity is often intimidating. Security documentation is filled with technical terminology, complex frameworks, and tools that can overwhelm beginners, often making it hard to both learn and apply. As a result, many users unintentionally expose themselves to preventable cyber threats through simple mistakes, such as:
+•	Weak or reused passwords
+•	Falling victim to phishing attacks
+•	Misconfigured security settings
+•	Unsafe browsing habits
+•	Poor software update practices
+•	Lack of awareness regarding social engineering
+These issues frequently stem from a lack of accessible education rather than negligence. Phantom addresses this challenge by acting as an educational assistant capable of explaining cybersecurity concepts in plain language while providing practical recommendations tailored to the user's level of understanding, at the user's request.
+________________________________________
+Goals
+Phantom is designed to:
+•	Simplify complex cybersecurity concepts for users of all experience levels.
+•	Provide educational, step-by-step explanations instead of overwhelming technical documentation.
+•	Assist users in recognizing common cyber threats.
+•	Promote safe computing habits and preventative security practices.
+•	Help users understand cybersecurity terminology and best practices.
+•	Support students learning cybersecurity concepts and professionals seeking quick explanations.
+•	Encourage responsible security practices while emphasizing legal and ethical behavior.
+Rather than simply answering questions, the assistant aims to educate users, so they become more confident in protecting themselves online.
+________________________________________
+Core Features
+Threat Education
+Phantom explains common cyber threats, including phishing, ransomware, malware, social engineering, credential theft, and denial-of-service attacks, in language appropriate to the user's experience level. If the explanation is too long and complex, the phantom also possesses the ability to break down vast topics into short bullet points, allowing for an easier understanding of the topic.
+
+Incident Guidance
+If provided an Outlook email, this agent can also help users understand and potentially recognize suspicious activity and recommend appropriate defensive actions such as changing passwords, enabling Multifactor Authentication (MFA), disconnecting compromised devices, or contacting administrators when necessary.
+Explain Technical Concepts
+Finally, Phantom can translate complex cybersecurity terminology into plain English while still providing enough technical depth for users who want to learn more.
+________________________________________
+
+Design Philosophy
+Phantom follows several guiding principles:
+Accessibility
+Security advice should be understandable without requiring prior cybersecurity knowledge unless stated otherwise.
+Education First
+Rather than simply giving answers, the AI explains why a recommendation is important, helping users build lasting knowledge.
+Responsible Assistance
+The assistant prioritizes defensive cybersecurity and ethical use. It is intended to support learning, awareness, and protection, not offensive or malicious activities.
+Practical Guidance
+Recommendations should be realistic, actionable, and appropriate for the user's technical experience.
+________________________________________
+Intended Audience
+Phantom is built for:
+•	Students learning cybersecurity
+•	Individuals interested in improving personal online security
+•	Small business owners without dedicated security teams
+•	Educators teaching cybersecurity concepts
+•	IT support staff seeking quick educational explanations
+•	Professionals looking for simplified cybersecurity guidance
+No prior cybersecurity experience is required.
+________________________________________
+
+Vision
+Cyber threats continue to grow in both sophistication and frequency. While advanced security tools exist, many people remain vulnerable simply because they do not know where to begin.
+Phantom aims to create a future where cybersecurity knowledge is as accessible as a search engine but far more personalized, interactive, and educational. By combining artificial intelligence with cybersecurity best practices, the project aims to reduce confusion, encourage proactive security habits, and make digital defense understandable for everyone.
+Technology should empower people, not intimidate them. Phantom is committed to helping users build confidence, improve cyber awareness, and create safer digital environments for one conversation at a time.
