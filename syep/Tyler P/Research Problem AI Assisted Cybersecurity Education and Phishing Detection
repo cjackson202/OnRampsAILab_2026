@@ -1,0 +1,22 @@
+Problem Statement
+
+Phishing remains one of the most common and successful forms of cybercrime. Attackers create and send deceptive emails, text messages, or websites that appear to come from trusted organizations in an attempt to steal passwords, financial information, or other sensitive data. As artificial intelligence becomes more accessible, cybercriminals can generate convincing phishing messages that are personalized, grammatically correct, and increasingly difficult for both users and traditional email filters to detect.
+
+Although organizations invest heavily in cybersecurity awareness training and email security solutions, phishing continues to be a leading cause of security breaches. Human error remains one of the largest vulnerabilities in cybersecurity because employees often struggle to recognize sophisticated phishing attempts, particularly those created with generative AI.
+
+Why This Problem Matters
+
+A successful phishing attack can lead to credential theft, identity theft, ransomware infections, financial losses, and unauthorized access to organizational systems. Small businesses, schools, healthcare providers, and government agencies are all frequent targets because a single compromised account can allow attackers to move deeper into a network.
+
+
+Proposed AI Solution
+
+This AI agent will serve as an intelligent phishing analysis assistant and a cybersecurity educational assistant. Rather than simply labeling an email as safe or malicious, the agent will examine characteristics such as suspicious links, sender legitimacy, urgent language, credential requests, and signs of impersonation. Using carefully designed prompts, the AI will explain why an email appears suspicious and provide recommended actions, helping users make informed decisions instead of relying solely on automated filtering. Additionally, the agent will specialize in aiding individuals in learning about cybersecurity by explaining complex concepts in clear, easy-to-understand language, answering security-related questions, and providing personalized guidance through real-world examples and interactive learning experiences.
+
+Research Question
+
+How can AI agents be used to improve the accuracy and consistency of cybersecurity? 
+
+Expected Impact
+
+If successful, this research could demonstrate how AI agents could enhance AI-assisted phishing detection without requiring organizations to train custom machine learning models. The resulting agent could also improve cybersecurity awareness and knowledge to potentially reduce successful phishing or cyber-related attacks.
