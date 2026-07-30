@@ -1,0 +1,23 @@
+Generative AI Research Paper:
+
+Generative AI is an advanced type of machine learning that leverages large data sets and deep learning to generate new content from natural language prompts. Per Microsoft’s definition, generative AI goes beyond standard AI systems that only analyze or classify data; instead, it can generate original text, images, code, audio, and other output. This is what differentiates generative AI from regular AI, which is focused on predicting outcomes from existing data. Generative AI is one of the most important developments in modern AI because of its ability to generate new material.
+
+Microsoft is leveraging generative AI across a range of products and platforms. Microsoft 365 Copilot helps with writing, get summaries and find insights right in common Microsoft platform apps like Word, Excel, PowerPoint and Teams. GitHub Copilot behaves as an AI pair programmer that assists developers by suggesting code, writing functions, and solving problems faster. Microsoft also has other platforms like Copilot Studio and Azure AI Foundry, which allow users to build and tailor AI agents and applications.
+
+One of the big benefits of generative AI is its ability to boost creativity and improve efficiency. For example, in healthcare fields, generative AI could be applied to design new molecules for drug discovery or create synthetic data for analysis. It can assist in summarizing notes, creating presentations and reducing the need for repetative writing tasks in education and professional work.At the same time, generative AI raises important issues around bias, privacy, transparency and misuse so responsible development is key. Microsoft highlights six principles of responsible AI, including fairness, reliability and safety, privacy and security, inclusiveness, transparency and accountability. These principles are neeeded because they help ensure that generative AI assists users without causing harm.
+
+In summary, generative AI is changing the way people create, communicate and solve problems. It’s not just an analysis tool, but a technology that can create new work with little human intervention and ongoing improvement. Microsoft’s use of AI demonstrates how generative AI can be integrated into practical use cases through products like Microsoft 365 Copilot, GitHub Copilot, and Azure AI Foundry. As tech continues to grow, the impact will expand across industries, making it an important area of study for engineering, business, healthcare, and education.
+
+
+
+
+Sources: 
+
+Cameron Jackson, Generative AI Session Notes Week 1
+
+Microsoft, “Generative AI versus Different Types of AI,” Microsoft, 2026. 
+https://www.microsoft.com/en-us/ai/ai-101/generative-ai-vs-other-types-of-ai
+
+Microsoft, “Microsoft 365 Copilot app,” Microsoft Support. 
+https://support.microsoft.com/en-us/microsoft-365-copilot/what-is-the-microsoft-365-copilot-app
+
